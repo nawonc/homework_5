@@ -23,8 +23,17 @@ nav, a:hover {
   color: #6b412a;
 }
 
+.logo {
+  width: 50px;
+}
+
 .active {
   color: #6b412a;
+}
+
+.home-button {
+  align-content: middle;
+  vertical-align: middle;
 }
 
 .home-img {
