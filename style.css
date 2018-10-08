@@ -22,7 +22,6 @@ html, body {
   margin: auto;
   /*width: 10%;*/
   vertical-align: middle;
-  align-content: middle;
 }
 
 .nav a:hover {
@@ -276,15 +275,12 @@ html, body {
   margin-top: 20px;
   margin-left: 2px;
   margin-right: 2px;
-  align-content: middle;
   box-shadow: 0px 4px 12px #cccccc;
   position: relative;
-  align-content: middle;
 }
 
 .preview img {
   width: 100%;
-  align-content: middle;
   position: absolute;
   /*height: 100%;*/
 }
