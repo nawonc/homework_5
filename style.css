@@ -37,12 +37,11 @@ html, body {
   color: #6b412a;
 }
 
-.nav a .home-button {
+#home-button {
   color: #6b412a;
   float: left;
   text-align: left;
-  /*margin: auto;*/
-  /*width: 30%;*/
+  vertical-align: middle;
 }
 
 #logo {
@@ -50,6 +49,16 @@ html, body {
   padding-right: 10px;
   /*top: 5;*/
   /*position: absolute;*/
+}
+
+#logo-link {
+  padding-right: 0;
+  margin-right: 0;
+}
+
+#home-link {
+  padding-left: 0;
+  margin-left: 0;
 }
 
 .home-img {
@@ -173,7 +182,7 @@ html, body {
 }
 
 #glut-img {
-  margin-top: 10%;
+  margin-top: 15px;
 }
 
 .product-name {
